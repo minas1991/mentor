@@ -14,7 +14,7 @@
         <div id="errors"></div>
         <div class="row">
             <div class="col-md-6">
-                <h4>Matching Requirements</h2>
+                <h4>Matching Requirements</h4>
                     <div class="p-4 border border-2 rounded mb-4">
                         <form id="form" method="post" enctype="multipart/form-data">
                             <div class="form-group mb-2">
